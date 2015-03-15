@@ -100,20 +100,32 @@ h3{
 .dragon{
   background-color: #e4c22a;
   width: 100%;
+  margin-bottom: -32px;
+  padding-bottom: 20px;
 }
 
 .goat{
   background-color: #222;
   color: white;
+  margin-bottom: -32px;
+  width: 100%;
+  padding-bottom: 20px;
+
 }
 
 .rooster{
   background-color: #bc0017;
   color: white;
+  margin-bottom: -32px;
+  width: 100%;
+  padding-bottom: 20px;
 }
 
 .ox{
   background-color: #e4c22a;
+  margin-bottom: -32px;
+  width: 100%;
+  padding-bottom: 20px;
 }
 
 div{
@@ -123,6 +135,8 @@ div{
 footer{
   background-color: black;
   color: white;
+  padding-bottom: 20px;
+  padding-top: 30px;
 }
 
 .right{
@@ -133,7 +147,6 @@ footer{
 .left{
   float: right;
   width: 50%;
-
 }
 
 p{
